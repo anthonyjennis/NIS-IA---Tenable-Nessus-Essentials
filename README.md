@@ -11,9 +11,9 @@ As part of our project, we successfully demonstrated:
 * Security tool automation using the Nessus API
 
 ### Installations
-* Virtual Box - [text](https://www.virtualbox.org/)
-* Metasploitable - [text](https://sourceforge.net/projects/metasploitable/)
-* Tenable Nessus Essentials - [text](https://www.tenable.com/downloads/nessus)
+* Virtual Box - [Link](https://www.virtualbox.org/)
+* Metasploitable - [Link](https://sourceforge.net/projects/metasploitable/)
+* Tenable Nessus Essentials - [Link](https://www.tenable.com/downloads/nessus)
 
 ### Prerequisites
 * Python 3.x installed on your machine
@@ -33,10 +33,10 @@ As part of our project, we successfully demonstrated:
    SECRET_KEY = Your Nessus API Secret Key
 
 ### Demo Videos
-* Host Discovery - [text](https://youtu.be/vu5VF0lB-kE)
-* Unauthenticated Scan - [text](https://youtu.be/KDlqICQPQM8)
-* Authenticated Scan - [text](https://youtu.be/lejSyNUCvfM)
-* Advanced Scan - [text](https://youtu.be/-TGVpU6YDCk)
+* Host Discovery - [Youtube](https://youtu.be/vu5VF0lB-kE)
+* Unauthenticated Scan - [Youtube](https://youtu.be/KDlqICQPQM8)
+* Authenticated Scan - [Youtube](https://youtu.be/lejSyNUCvfM)
+* Advanced Scan - [Youtube](https://youtu.be/-TGVpU6YDCk)
 
 ### Usage
 Because the free Student tier restricts launching scans via the API, this script is designed to authenticate securely and automatically retrieve/audit the status of all configured scans on the server.

@@ -10,6 +10,8 @@ As part of our project, we successfully demonstrated:
 * Detailed vulnerability analysis and remediation recommendations
 * Security tool automation using the Nessus API
 
+### Final Video - [Youtube](https://youtu.be/eZ4VtrQYhxc)
+
 ### Installations
 * Virtual Box - [Link](https://www.virtualbox.org/)
 * Metasploitable - [Link](https://sourceforge.net/projects/metasploitable/)
